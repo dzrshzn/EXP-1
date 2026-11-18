@@ -1,4 +1,4 @@
-<img width="943" height="610" alt="image" src="https://github.com/user-attachments/assets/4264a1ba-1311-4354-8b30-9adf14edd6ba" />## EXPERIMENT NO. 1 – VERIFICATION OF KIRCHHOFF'S LAWS
+## EXPERIMENT NO. 1 – VERIFICATION OF KIRCHHOFF'S LAWS
 
 | **Name:** |  | **Reg. No.:** |  |
 |---|---|---|---|
